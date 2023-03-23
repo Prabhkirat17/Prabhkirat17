@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabhkirat17
-- 🌱 I’m currently a second year computer engineering student. 
+- 🌱 I’m currently a third year computer engineering student. 
 - 💞️ I’m looking to collaborate on interesting and cool projects
 - 📫 How to reach me- aroraprabhkiratkaur@gmail.com
 
