@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Prabhkirat17
-- 🌱 I’m currently a fourth year computer engineering student. 
-- 💞️ I’m looking to collaborate on interesting and cool projects
-- 📫 How to reach me- aroraprabhkiratkaur@gmail.com
+- 👋 Hi, I’m Prabhkirat Kaur Arora(Kirat).
+- 🌱 Computer Engineer from York
+- 💞️ For more about me, checkout: https://www.polywork.com/prabhkiratkaur_a
+- 📫 Email: aroraprabhkiratkaur@gmail.com
+- 🖇  Linkedin: https://www.linkedin.com/in/prabhkirat-kaur-arora-a1720/
 
 <!---
 Prabhkirat17/Prabhkirat17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
